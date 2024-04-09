@@ -86,3 +86,4 @@ secondInningsRows.each((index, element) => {
 });
 
 return {"bowlingSummary": bowlingSummary}
+
